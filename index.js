@@ -24,7 +24,7 @@ function sayHiToGrandma(string) {
     return "I can\'t hear you!"
   } else if (string === uppercase) {
     return "YES INDEED!"
-  } else (string === mixedCase) {
+  } else {
     return "I love you, too."
   }
 }
